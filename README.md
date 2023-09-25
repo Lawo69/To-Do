@@ -15,11 +15,6 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 You can try the application live by visiting the following link: [To-Do List App](https://yourappdomain.com)
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Usage
 
 - Enter a task in the input box and click the "Add" button to add it to your to-do list.
@@ -38,4 +33,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Author
 
 Supun Gunawardhana
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/supun-gunawardhana-b7a511261/)
