@@ -1,7 +1,5 @@
 # To-Do List Web Application
 
-![App Screenshot](screenshot.png)
-
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. You can use this application to manage your tasks and keep track of your daily activities.
 
 ## Features
@@ -13,7 +11,7 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can try the application live by visiting the following link: [To-Do List App](https://yourappdomain.com)
+You can try the application live by visiting the following link: [To-Do List App](https://lawo69.github.io/To-Do/)
 
 ## Usage
 
